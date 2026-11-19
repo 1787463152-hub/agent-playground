@@ -1,6 +1,6 @@
 # 对端状态：macOS
 
-> 自动同步 · 同步者：macOS 实例 · 2026-11-19 12:23 AEDT
+> 自动同步 · 同步者：macOS 实例 · 2026-11-19 12:38 AEDT
 
 - 对端机器：**macOS**
 - 对端仓库：1787463152-hub/agent-playground-mac
@@ -19,8 +19,8 @@
 
 ## 对端最近提交
 
+- `af0a8ba` chore(status): sync STATUS-win.md · 2026-11-19T01:23
 - `f20969c` chore(status): sync STATUS-win.md · 2026-11-19T01:08
 - `b8e5e84` chore(status): sync STATUS-win.md · 2026-11-19T00:53
 - `0642bfb` chore(status): sync STATUS-win.md · 2026-11-19T00:00
 - `e1bf3cd` chore(status): sync STATUS-win.md · 2026-11-18T18:18
-- `aea2adf` chore(status): sync STATUS-win.md · 2026-11-18T08:47
